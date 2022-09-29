@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Natnael Demelash</h1>
-<h3 align="center">A Passionate frontend developer from Ethiopia</h3>
+<h3 align="center">A Passionate Frontend Web Developer from Ethiopia</h3>
 
 <img align="right" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=996&t=st=1664440007~exp=1664440607~hmac=022bbc0c328f96cb9e8c6555ff9abc492519c30a2075ccc1f1ce5f3c40c1d6a6" width="400">
 
