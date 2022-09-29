@@ -1,4 +1,4 @@
-![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development.gif)
+
 <h1 align="center">Hi 👋, I'm Natnael Demelash</h1>
 <h3 align="center">A Passionate frontend developer from Ethiopia</h3>
 
