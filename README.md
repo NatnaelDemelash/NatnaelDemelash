@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Personal project**
 
-- 🌱 I’m currently learning **Vue.js, Python**
+- 🌱 I’m currently learning **Vue.js and Flutter**
 
 - 📫 How to reach me **natidemelash074@gmail.com**
 
