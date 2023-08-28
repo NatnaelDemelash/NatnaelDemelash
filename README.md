@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **Personal project**
 
-- 🌱 I’m currently learning **Vue.js and Flutter**
+- 🌱 I’m currently learning **React.js and Flutter**
 
-- 📫 How to reach me **natidemelash074@gmail.com**
+- 📫 How to reach me **natidemelash074@gmail.com** / **natnael.dev101@gmail.com"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
