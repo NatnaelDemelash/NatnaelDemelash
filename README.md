@@ -1,16 +1,22 @@
 
-<h1 align="center">Hi 👋, I'm Natnael Demelash</h1>
-<h3 align="center">A Passionate Frontend Web Developer from Ethiopia</h3>
+<h1 align="center">Hi 👋, I'm Natnael Demelash 🧑🏽‍💻</h1>
 
-<img align="right" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=996&t=st=1664440007~exp=1664440607~hmac=022bbc0c328f96cb9e8c6555ff9abc492519c30a2075ccc1f1ce5f3c40c1d6a6" width="400">
+<img src="./Natnael Demelash.png" alt="banner"/>
+
+
+<h3 align="center">A Passionate Frontend Web Developer based in Addis Ababa, Ethiopia</h3>
+
+<img align="right" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natnaeldemelash&label=Profile%20views&color=0e75b6&style=flat" alt="natnaeldemelash" /> </p>
 
 - 🔭 I’m currently working on **Personal project**
 
-- 🌱 I’m currently learning **React.js and Flutter**
+- 🌱 I’m currently learning **Next.js**
 
-- 📫 How to reach me **natidemelash074@gmail.com** or natnael.dev101@gmail.com
+- 👨‍💻 All of my projects are available at https://github.com/NatnaelDemelash
+
+- 📫 How to reach me **natidemelash074@gmail.com** or **natnael.dev101@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
