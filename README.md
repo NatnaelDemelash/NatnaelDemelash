@@ -18,10 +18,8 @@
 
 - 📫 How to reach me **natidemelash074@gmail.com** or **natnael.dev101@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/natnael-demelash-20835b1bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="natnael-demelash-20835b1bb" height="30" width="40" /></a>
-</p>
+
+
 
 ## 💼 Skills
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -34,8 +32,9 @@
 ![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=natnaeldemelash&show_icons=true&locale=en&layout=compact" alt="natnaeldemelash" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=natnaeldemelash&show_icons=true&locale=en" alt="natnaeldemelash" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=natnaeldemelash&" alt="natnaeldemelash" /></p>
+<a href="https://github.com/NatnaelDemelash">
+  <img height="225" src="https://github-readme-stats.vercel.app/api?username=NatnaelDemelash&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatnaelDemelash&theme=dark"/>
+</a>
