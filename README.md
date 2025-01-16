@@ -9,9 +9,11 @@
 
 
 ## ⚡Connect with me:
-[![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:natnael.dev101@gmail.com)](mailto:natnael.dev101@gmail.com)
-  
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natnaeldemelash/)
+<p align="left">
+<a href="https://www.linkedin.com/in/natnaeldemelash/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="4%" height="4%"/></a>
+&#8287;&#8287;&#8287;&#8287;&#8287;
+<a href="mailto:natnael.dev101@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" width="4%" height="4%"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
 
 
 ## 🧩 Skills
@@ -33,7 +35,7 @@
 
 
 
-<a href="https://github.com/NatnaelDemelash">
-  <img height="225" src="https://github-readme-stats.vercel.app/api?username=NatnaelDemelash&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatnaelDemelash&theme=dark"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natnaeldemelash&layout=compact&theme=gotham" width="38%"/> <img src="https://github-readme-stats.vercel.app/api?username=natnaeldemelash&show_icons=true&count_private=true&theme=gotham" width="49.5%"/>
+
+
+[![Natnael's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=natnaeldemelash&theme=gotham&area=true&hide_border=true)](https://github.com/natnaeldemelash/github-readme-activity-graph)
