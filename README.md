@@ -39,3 +39,7 @@
 
 
 [![Natnael's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=natnaeldemelash&theme=gotham&area=true&hide_border=true)](https://github.com/natnaeldemelash/github-readme-activity-graph)
+
+GitHub Streak:
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=NatnaelDemelash)](https://git.io/streak-stats)
